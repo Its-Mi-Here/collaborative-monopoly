@@ -1,0 +1,2 @@
+from monopoly.envs.monopoly_env import MonopolyEnv
+from monopoly.envs.simplified_monopoly import SimpleMonopolyEnv
