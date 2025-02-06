@@ -10,7 +10,6 @@ Despite the vast research in the field of fully collaborative and fully adversar
 ## Demo
 The below video is a demonstration of our environment. It also shows how the trained RL agents are collaborating and making one of the agents win the game(own all the tiles) when playing against static agents.
 
-<video width="600" controls>
-  <source src="https://github.com/Its-Mi-Here/collaborative-monopoly/blob/main/assets/Monopoly3.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!-- https://github.com/Its-Mi-Here/collaborative-monopoly/blob/main/assets/Monopoly3.mp4
+ -->
+ https://github.com/user-attachments/assets/880ebebe-2aee-42e3-8f8c-746aef43fe9b
